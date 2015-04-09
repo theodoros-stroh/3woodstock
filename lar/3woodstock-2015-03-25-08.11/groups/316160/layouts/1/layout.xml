@@ -1,0 +1,165 @@
+<com.liferay.portal.model.impl.LayoutImpl>
+  <__cachedModel>true</__cachedModel>
+  <__new>false</__new>
+  <__uuid>3f68a117-f10e-4239-8d9e-b4b21f59ebe8</__uuid>
+  <__originalUuid>3f68a117-f10e-4239-8d9e-b4b21f59ebe8</__originalUuid>
+  <__plid>316163</__plid>
+  <__groupId>316160</__groupId>
+  <__originalGroupId>316160</__originalGroupId>
+  <__setOriginalGroupId>false</__setOriginalGroupId>
+  <__companyId>316135</__companyId>
+  <__originalCompanyId>316135</__originalCompanyId>
+  <__setOriginalCompanyId>false</__setOriginalCompanyId>
+  <__createDate>2015-03-23 09:58:25.0 UTC</__createDate>
+  <__modifiedDate>2015-03-25 00:03:11.0 UTC</__modifiedDate>
+  <__privateLayout>false</__privateLayout>
+  <__originalPrivateLayout>false</__originalPrivateLayout>
+  <__setOriginalPrivateLayout>false</__setOriginalPrivateLayout>
+  <__layoutId>1</__layoutId>
+  <__originalLayoutId>1</__originalLayoutId>
+  <__setOriginalLayoutId>false</__setOriginalLayoutId>
+  <__parentLayoutId>0</__parentLayoutId>
+  <__originalParentLayoutId>0</__originalParentLayoutId>
+  <__setOriginalParentLayoutId>false</__setOriginalParentLayoutId>
+  <__name>&lt;?xml version=&apos;1.0&apos; encoding=&apos;UTF-8&apos;?&gt;&lt;root available-locales=&quot;en_US&quot; default-locale=&quot;en_US&quot;&gt;&lt;Name language-id=&quot;en_US&quot;&gt;Welcome&lt;/Name&gt;&lt;/root&gt;</__name>
+  <__title></__title>
+  <__description></__description>
+  <__keywords></__keywords>
+  <__robots></__robots>
+  <__type>portlet</__type>
+  <__originalType>portlet</__originalType>
+  <__typeSettings>sitemap-changefreq=daily
+show-alternate-links=true
+layout-template-id=1_3_1_columns
+sitemap-include=1
+column-4=56_INSTANCE_3AlSHLeg1z5O,56_INSTANCE_EXUhO9tTmOO4,
+column-3=56_INSTANCE_7fMF3QUbcolQ,56_INSTANCE_paXkrNJn0ZUD,
+layoutUpdateable=true
+column-2-customizable=false
+column-1-customizable=false
+column-2=56_INSTANCE_oCR7GgPMGZbZ,56_INSTANCE_J77ll5Rd36yo,56_INSTANCE_Rui04ysn4xWh,
+column-1=responsivecarousel_WAR_responsivecarouselportlet_INSTANCE_xubjaIk9sSo3,
+</__typeSettings>
+  <__hidden>false</__hidden>
+  <__friendlyURL>/home</__friendlyURL>
+  <__originalFriendlyURL>/home</__originalFriendlyURL>
+  <__iconImage>false</__iconImage>
+  <__iconImageId>0</__iconImageId>
+  <__originalIconImageId>0</__originalIconImageId>
+  <__setOriginalIconImageId>false</__setOriginalIconImageId>
+  <__themeId>classic</__themeId>
+  <__colorSchemeId></__colorSchemeId>
+  <__wapThemeId>classic</__wapThemeId>
+  <__wapColorSchemeId></__wapColorSchemeId>
+  <__css></__css>
+  <__priority>0</__priority>
+  <__layoutPrototypeUuid></__layoutPrototypeUuid>
+  <__originalLayoutPrototypeUuid></__originalLayoutPrototypeUuid>
+  <__layoutPrototypeLinkEnabled>false</__layoutPrototypeLinkEnabled>
+  <__sourcePrototypeLayoutUuid></__sourcePrototypeLayoutUuid>
+  <__originalSourcePrototypeLayoutUuid></__originalSourcePrototypeLayoutUuid>
+  <__columnBitmask>0</__columnBitmask>
+  <__layoutSet class="com.liferay.portal.model.impl.LayoutSetImpl">
+    <__cachedModel>true</__cachedModel>
+    <__new>false</__new>
+    <__layoutSetId>316162</__layoutSetId>
+    <__groupId>316160</__groupId>
+    <__originalGroupId>316160</__originalGroupId>
+    <__setOriginalGroupId>false</__setOriginalGroupId>
+    <__companyId>316135</__companyId>
+    <__createDate>2015-03-23 09:58:25.0 UTC</__createDate>
+    <__modifiedDate>2015-03-24 23:54:35.0 UTC</__modifiedDate>
+    <__privateLayout>false</__privateLayout>
+    <__originalPrivateLayout>false</__originalPrivateLayout>
+    <__setOriginalPrivateLayout>false</__setOriginalPrivateLayout>
+    <__logo>true</__logo>
+    <__logoId>354330</__logoId>
+    <__themeId>zoetech_WAR_zoetechtheme</__themeId>
+    <__colorSchemeId>01</__colorSchemeId>
+    <__wapThemeId>mobile</__wapThemeId>
+    <__wapColorSchemeId>01</__wapColorSchemeId>
+    <__css></__css>
+    <__pageCount>6</__pageCount>
+    <__settings>lfr-theme:regular:footer-section-1-article-id=355174
+lfr-theme:regular:footer-section-4-article-id=355193
+lfr-theme:regular:footer-section-3-article-id=355188
+lfr-theme:regular:footer-section-2-article-id=355183
+lfr-theme:regular:display-company-logo=true
+</__settings>
+    <__layoutSetPrototypeUuid></__layoutSetPrototypeUuid>
+    <__originalLayoutSetPrototypeUuid></__originalLayoutSetPrototypeUuid>
+    <__layoutSetPrototypeLinkEnabled>false</__layoutSetPrototypeLinkEnabled>
+    <__columnBitmask>0</__columnBitmask>
+  </__layoutSet>
+  <__layoutType class="com.liferay.portal.model.impl.LayoutTypePortletImpl">
+    <__layout class="com.liferay.portal.model.impl.LayoutImpl" reference="../.."/>
+    <__customizedView>false</__customizedView>
+    <__dateFormat class="org.apache.commons.lang.time.FastDateFormat" serialization="custom">
+      <org.apache.commons.lang.time.FastDateFormat>
+        <default>
+          <mLocaleForced>true</mLocaleForced>
+          <mTimeZoneForced>false</mTimeZoneForced>
+          <mLocale>en_US</mLocale>
+          <mPattern>yyyyMMddHHmmss</mPattern>
+          <mTimeZone class="sun.util.calendar.ZoneInfo" serialization="custom">
+            <java.util.TimeZone>
+              <default>
+                <ID>UTC</ID>
+              </default>
+            </java.util.TimeZone>
+            <sun.util.calendar.ZoneInfo>
+              <default>
+                <checksum>0</checksum>
+                <dstSavings>0</dstSavings>
+                <rawOffset>0</rawOffset>
+                <rawOffsetDiff>0</rawOffsetDiff>
+                <willGMTOffsetChange>false</willGMTOffsetChange>
+              </default>
+            </sun.util.calendar.ZoneInfo>
+          </mTimeZone>
+        </default>
+      </org.apache.commons.lang.time.FastDateFormat>
+    </__dateFormat>
+    <__enablePortletLayoutListener>true</__enablePortletLayoutListener>
+    <__updatePermission>false</__updatePermission>
+  </__layoutType>
+  <__typeSettingsProperties serialization="custom">
+    <unserializable-parents/>
+    <map>
+      <default>
+        <loadFactor>0.75</loadFactor>
+        <threshold>12</threshold>
+      </default>
+      <int>16</int>
+      <int>11</int>
+      <string>layout-template-id</string>
+      <string>1_3_1_columns</string>
+      <string>show-alternate-links</string>
+      <string>true</string>
+      <string>sitemap-changefreq</string>
+      <string>daily</string>
+      <string>column-4</string>
+      <string>56_INSTANCE_3AlSHLeg1z5O,56_INSTANCE_EXUhO9tTmOO4,</string>
+      <string>sitemap-include</string>
+      <string>1</string>
+      <string>column-3</string>
+      <string>56_INSTANCE_7fMF3QUbcolQ,56_INSTANCE_paXkrNJn0ZUD,</string>
+      <string>layoutUpdateable</string>
+      <string>true</string>
+      <string>column-2-customizable</string>
+      <string>false</string>
+      <string>column-1-customizable</string>
+      <string>false</string>
+      <string>column-2</string>
+      <string>56_INSTANCE_oCR7GgPMGZbZ,56_INSTANCE_J77ll5Rd36yo,56_INSTANCE_Rui04ysn4xWh,</string>
+      <string>column-1</string>
+      <string>responsivecarousel_WAR_responsivecarouselportlet_INSTANCE_xubjaIk9sSo3,</string>
+    </map>
+    <com.liferay.portal.kernel.util.UnicodeProperties>
+      <default>
+        <__length>466</__length>
+        <__safe>true</__safe>
+      </default>
+    </com.liferay.portal.kernel.util.UnicodeProperties>
+  </__typeSettingsProperties>
+</com.liferay.portal.model.impl.LayoutImpl>

@@ -1,0 +1,89 @@
+<com.liferay.portal.repository.liferayrepository.model.LiferayFileEntry>
+  <__dlFileEntry class="DLFileEntry">
+    <__cachedModel>false</__cachedModel>
+    <__new>false</__new>
+    <__uuid>fb87b6f1-9d32-47ae-b53a-93b48c3611a6</__uuid>
+    <__originalUuid>fb87b6f1-9d32-47ae-b53a-93b48c3611a6</__originalUuid>
+    <__fileEntryId>355031</__fileEntryId>
+    <__groupId>316160</__groupId>
+    <__originalGroupId>316160</__originalGroupId>
+    <__setOriginalGroupId>false</__setOriginalGroupId>
+    <__companyId>316135</__companyId>
+    <__originalCompanyId>316135</__originalCompanyId>
+    <__setOriginalCompanyId>false</__setOriginalCompanyId>
+    <__userId>316175</__userId>
+    <__userUuid>960c4e5f-8551-4564-96a4-a8656a2a6626</__userUuid>
+    <__originalUserId>316175</__originalUserId>
+    <__setOriginalUserId>false</__setOriginalUserId>
+    <__userName>Portal Admin</__userName>
+    <__versionUserId>316175</__versionUserId>
+    <__versionUserName>Portal Admin</__versionUserName>
+    <__createDate class="sql-timestamp">2015-03-24 23:40:35.0</__createDate>
+    <__modifiedDate class="sql-timestamp">2015-03-24 23:40:35.0</__modifiedDate>
+    <__repositoryId>316160</__repositoryId>
+    <__folderId>353772</__folderId>
+    <__originalFolderId>353772</__originalFolderId>
+    <__setOriginalFolderId>false</__setOriginalFolderId>
+    <__name>3818</__name>
+    <__originalName>3818</__originalName>
+    <__extension>jpg</__extension>
+    <__mimeType>image/jpeg</__mimeType>
+    <__originalMimeType>image/jpeg</__originalMimeType>
+    <__title>workspace.jpg</__title>
+    <__originalTitle>workspace.jpg</__originalTitle>
+    <__description></__description>
+    <__extraSettings></__extraSettings>
+    <__fileEntryTypeId>0</__fileEntryTypeId>
+    <__originalFileEntryTypeId>0</__originalFileEntryTypeId>
+    <__setOriginalFileEntryTypeId>false</__setOriginalFileEntryTypeId>
+    <__version>1.0</__version>
+    <__size>67317</__size>
+    <__readCount>9</__readCount>
+    <__smallImageId>0</__smallImageId>
+    <__largeImageId>0</__largeImageId>
+    <__custom1ImageId>0</__custom1ImageId>
+    <__custom2ImageId>0</__custom2ImageId>
+    <__columnBitmask>0</__columnBitmask>
+    <__dlFileVersion class="com.liferay.portlet.documentlibrary.model.impl.DLFileVersionImpl">
+      <__cachedModel>false</__cachedModel>
+      <__new>false</__new>
+      <__uuid>595bf685-b35e-4485-a24e-7aa266b1244a</__uuid>
+      <__originalUuid>595bf685-b35e-4485-a24e-7aa266b1244a</__originalUuid>
+      <__fileVersionId>355032</__fileVersionId>
+      <__groupId>316160</__groupId>
+      <__originalGroupId>316160</__originalGroupId>
+      <__setOriginalGroupId>false</__setOriginalGroupId>
+      <__companyId>316135</__companyId>
+      <__userId>316175</__userId>
+      <__userName>Portal Admin</__userName>
+      <__createDate class="sql-timestamp">2015-03-24 23:40:35.0</__createDate>
+      <__modifiedDate class="sql-timestamp">2015-03-24 23:40:35.0</__modifiedDate>
+      <__repositoryId>316160</__repositoryId>
+      <__folderId>353772</__folderId>
+      <__originalFolderId>353772</__originalFolderId>
+      <__setOriginalFolderId>false</__setOriginalFolderId>
+      <__fileEntryId>355031</__fileEntryId>
+      <__originalFileEntryId>355031</__originalFileEntryId>
+      <__setOriginalFileEntryId>false</__setOriginalFileEntryId>
+      <__extension>jpg</__extension>
+      <__mimeType>image/jpeg</__mimeType>
+      <__title>workspace.jpg</__title>
+      <__originalTitle>workspace.jpg</__originalTitle>
+      <__description></__description>
+      <__changeLog></__changeLog>
+      <__extraSettings></__extraSettings>
+      <__fileEntryTypeId>0</__fileEntryTypeId>
+      <__version>1.0</__version>
+      <__originalVersion>1.0</__originalVersion>
+      <__size>67317</__size>
+      <__status>0</__status>
+      <__originalStatus>0</__originalStatus>
+      <__setOriginalStatus>false</__setOriginalStatus>
+      <__statusByUserId>316175</__statusByUserId>
+      <__statusByUserName>Portal Admin</__statusByUserName>
+      <__statusDate class="sql-timestamp">2015-03-24 23:40:35.0</__statusDate>
+      <__columnBitmask>0</__columnBitmask>
+    </__dlFileVersion>
+  </__dlFileEntry>
+  <__escapedModel>false</__escapedModel>
+</com.liferay.portal.repository.liferayrepository.model.LiferayFileEntry>

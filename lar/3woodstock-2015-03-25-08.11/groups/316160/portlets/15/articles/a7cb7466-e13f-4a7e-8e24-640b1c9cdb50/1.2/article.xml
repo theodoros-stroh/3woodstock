@@ -1,0 +1,78 @@
+<JournalArticle>
+  <__cachedModel>false</__cachedModel>
+  <__new>false</__new>
+  <__uuid>c1a98c33-ddcf-4c7a-b21f-2eaa4b046da7</__uuid>
+  <__originalUuid>c1a98c33-ddcf-4c7a-b21f-2eaa4b046da7</__originalUuid>
+  <__id>355204</__id>
+  <__resourcePrimKey>355195</__resourcePrimKey>
+  <__originalResourcePrimKey>355195</__originalResourcePrimKey>
+  <__setOriginalResourcePrimKey>false</__setOriginalResourcePrimKey>
+  <__groupId>316160</__groupId>
+  <__originalGroupId>316160</__originalGroupId>
+  <__setOriginalGroupId>false</__setOriginalGroupId>
+  <__companyId>316135</__companyId>
+  <__originalCompanyId>316135</__originalCompanyId>
+  <__setOriginalCompanyId>false</__setOriginalCompanyId>
+  <__userId>316175</__userId>
+  <__userUuid>960c4e5f-8551-4564-96a4-a8656a2a6626</__userUuid>
+  <__userName>Portal Admin</__userName>
+  <__createDate class="sql-timestamp">2015-03-24 23:53:17.0</__createDate>
+  <__modifiedDate class="sql-timestamp">2015-03-24 23:53:17.0</__modifiedDate>
+  <__classNameId>0</__classNameId>
+  <__originalClassNameId>0</__originalClassNameId>
+  <__setOriginalClassNameId>false</__setOriginalClassNameId>
+  <__classPK>0</__classPK>
+  <__originalClassPK>0</__originalClassPK>
+  <__setOriginalClassPK>false</__setOriginalClassPK>
+  <__articleId>355193</__articleId>
+  <__originalArticleId>355193</__originalArticleId>
+  <__version>1.2</__version>
+  <__originalVersion>1.2</__originalVersion>
+  <__setOriginalVersion>false</__setOriginalVersion>
+  <__title>&lt;?xml version=&apos;1.0&apos; encoding=&apos;UTF-8&apos;?&gt;&lt;root available-locales=&quot;en_US&quot; default-locale=&quot;en_US&quot;&gt;&lt;Title language-id=&quot;en_US&quot;&gt;footer-5&lt;/Title&gt;&lt;/root&gt;</__title>
+  <__urlTitle>footer-5</__urlTitle>
+  <__originalUrlTitle>footer-5</__originalUrlTitle>
+  <__description></__description>
+  <__content>&lt;?xml version=&quot;1.0&quot;?&gt;
+
+&lt;root available-locales=&quot;en_US&quot; default-locale=&quot;en_US&quot;&gt;
+	&lt;static-content language-id=&quot;en_US&quot;&gt;&lt;![CDATA[&lt;div class=&quot;aui-column-content aui-column-content-last&quot;&gt;
+	&lt;h2&gt;
+		Stay Updated&lt;/h2&gt;
+	&lt;h4&gt;
+		Subscribe and follow us&lt;/h4&gt;
+	&lt;ul class=&quot;social&quot;&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;/documents/10179/10908/linkedin.png/d39c3a08-ce11-42ac-97c0-fe82b622ff99?t=1427006003841&quot; target=&quot;new_window&quot; title=&quot;LinkedIn&quot;&gt; &lt;img alt=&quot;LinkedIn&quot; src=&quot;http://localhost:8080/documents/10179/10908/linkedin.png/d39c3a08-ce11-42ac-97c0-fe82b622ff99?t=1427006003841&quot; /&gt; &lt;span&gt;LinkedIn&lt;/span&gt; &lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;https://el-gr.facebook.com/3woodstock&quot; target=&quot;new_window&quot; title=&quot;Facebook&quot;&gt; &lt;img alt=&quot;Facebook&quot; src=&quot;http://localhost:8080/documents/10179/10908/facebook.png/50b402fd-fc5a-4d4d-8e45-a5b40866d59d?t=1427006450139&quot; /&gt; &lt;span&gt;Facebook&lt;/span&gt; &lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;//twitter.com/liferay&quot; target=&quot;new_window&quot; title=&quot;Twitter&quot;&gt; &lt;img alt=&quot;Twitter&quot; src=&quot;http://localhost:8080/documents/10179/10908/twitter.png/3f0839cb-6f0a-4f5f-97c0-192ddf62fd6c?t=1427006471164&quot; /&gt; &lt;span&gt;Twitter&lt;/span&gt; &lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;#&quot; target=&quot;new_window&quot; title=&quot;RSS&quot;&gt; &lt;img alt=&quot;RSS&quot; src=&quot;http://localhost:8080/documents/10179/10908/rss.png/e056f3b3-83f4-4a6c-a4ce-25e36f277726?t=1427006460509&quot; /&gt; &lt;span&gt;RSS&lt;/span&gt; &lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;]]&gt;&lt;/static-content&gt;
+&lt;/root&gt;</__content>
+  <__type>general</__type>
+  <__structureId></__structureId>
+  <__originalStructureId></__originalStructureId>
+  <__templateId></__templateId>
+  <__originalTemplateId></__originalTemplateId>
+  <__layoutUuid></__layoutUuid>
+  <__originalLayoutUuid></__originalLayoutUuid>
+  <__displayDate class="sql-timestamp">2015-03-24 23:51:00.0</__displayDate>
+  <__indexable>true</__indexable>
+  <__smallImage>false</__smallImage>
+  <__smallImageId>355196</__smallImageId>
+  <__originalSmallImageId>355196</__originalSmallImageId>
+  <__setOriginalSmallImageId>false</__setOriginalSmallImageId>
+  <__smallImageURL></__smallImageURL>
+  <__status>0</__status>
+  <__originalStatus>0</__originalStatus>
+  <__setOriginalStatus>false</__setOriginalStatus>
+  <__statusByUserId>316175</__statusByUserId>
+  <__statusByUserUuid>960c4e5f-8551-4564-96a4-a8656a2a6626</__statusByUserUuid>
+  <__statusByUserName>Portal Admin</__statusByUserName>
+  <__statusDate class="sql-timestamp">2015-03-24 23:53:17.0</__statusDate>
+  <__columnBitmask>0</__columnBitmask>
+</JournalArticle>

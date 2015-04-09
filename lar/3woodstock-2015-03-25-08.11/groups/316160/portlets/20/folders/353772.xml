@@ -1,0 +1,37 @@
+<com.liferay.portal.repository.liferayrepository.model.LiferayFolder>
+  <__dlFolder class="DLFolder">
+    <__cachedModel>false</__cachedModel>
+    <__new>false</__new>
+    <__uuid>240ff505-f69d-4fe3-baf7-5c230f8a4a1f</__uuid>
+    <__originalUuid>240ff505-f69d-4fe3-baf7-5c230f8a4a1f</__originalUuid>
+    <__folderId>353772</__folderId>
+    <__groupId>316160</__groupId>
+    <__originalGroupId>316160</__originalGroupId>
+    <__setOriginalGroupId>false</__setOriginalGroupId>
+    <__companyId>316135</__companyId>
+    <__originalCompanyId>316135</__originalCompanyId>
+    <__setOriginalCompanyId>false</__setOriginalCompanyId>
+    <__userId>316175</__userId>
+    <__userUuid>960c4e5f-8551-4564-96a4-a8656a2a6626</__userUuid>
+    <__userName></__userName>
+    <__createDate class="sql-timestamp">2015-03-24 21:09:58.0</__createDate>
+    <__modifiedDate class="sql-timestamp">2015-03-24 21:10:33.0</__modifiedDate>
+    <__repositoryId>316160</__repositoryId>
+    <__originalRepositoryId>316160</__originalRepositoryId>
+    <__setOriginalRepositoryId>false</__setOriginalRepositoryId>
+    <__mountPoint>false</__mountPoint>
+    <__originalMountPoint>false</__originalMountPoint>
+    <__setOriginalMountPoint>false</__setOriginalMountPoint>
+    <__parentFolderId>0</__parentFolderId>
+    <__originalParentFolderId>0</__originalParentFolderId>
+    <__setOriginalParentFolderId>false</__setOriginalParentFolderId>
+    <__name>images</__name>
+    <__originalName>images</__originalName>
+    <__description></__description>
+    <__lastPostDate class="sql-timestamp">2015-03-24 23:40:35.0</__lastPostDate>
+    <__defaultFileEntryTypeId>0</__defaultFileEntryTypeId>
+    <__overrideFileEntryTypes>false</__overrideFileEntryTypes>
+    <__columnBitmask>0</__columnBitmask>
+  </__dlFolder>
+  <__escapedModel>false</__escapedModel>
+</com.liferay.portal.repository.liferayrepository.model.LiferayFolder>

@@ -1,0 +1,53 @@
+<MBMessage>
+  <__cachedModel>false</__cachedModel>
+  <__new>false</__new>
+  <__uuid>a632f070-8e83-4c92-ad7f-9f016dca7a40</__uuid>
+  <__originalUuid>a632f070-8e83-4c92-ad7f-9f016dca7a40</__originalUuid>
+  <__messageId>354555</__messageId>
+  <__groupId>316160</__groupId>
+  <__originalGroupId>316160</__originalGroupId>
+  <__setOriginalGroupId>false</__setOriginalGroupId>
+  <__companyId>316135</__companyId>
+  <__originalCompanyId>316135</__originalCompanyId>
+  <__setOriginalCompanyId>false</__setOriginalCompanyId>
+  <__userId>316175</__userId>
+  <__userUuid>960c4e5f-8551-4564-96a4-a8656a2a6626</__userUuid>
+  <__originalUserId>316175</__originalUserId>
+  <__setOriginalUserId>false</__setOriginalUserId>
+  <__userName>Portal Admin</__userName>
+  <__createDate class="sql-timestamp">2015-03-24 22:16:57.0</__createDate>
+  <__modifiedDate class="sql-timestamp">2015-03-24 22:16:57.0</__modifiedDate>
+  <__classNameId>10010</__classNameId>
+  <__originalClassNameId>10010</__originalClassNameId>
+  <__setOriginalClassNameId>false</__setOriginalClassNameId>
+  <__classPK>354550</__classPK>
+  <__originalClassPK>354550</__originalClassPK>
+  <__setOriginalClassPK>false</__setOriginalClassPK>
+  <__categoryId>-1</__categoryId>
+  <__originalCategoryId>-1</__originalCategoryId>
+  <__setOriginalCategoryId>false</__setOriginalCategoryId>
+  <__threadId>354556</__threadId>
+  <__originalThreadId>354556</__originalThreadId>
+  <__setOriginalThreadId>false</__setOriginalThreadId>
+  <__rootMessageId>354555</__rootMessageId>
+  <__parentMessageId>0</__parentMessageId>
+  <__originalParentMessageId>0</__originalParentMessageId>
+  <__setOriginalParentMessageId>false</__setOriginalParentMessageId>
+  <__subject>354550</__subject>
+  <__body>354550</__body>
+  <__format>bbcode</__format>
+  <__attachments>false</__attachments>
+  <__anonymous>false</__anonymous>
+  <__priority>0.0</__priority>
+  <__allowPingbacks>false</__allowPingbacks>
+  <__answer>false</__answer>
+  <__originalAnswer>false</__originalAnswer>
+  <__setOriginalAnswer>false</__setOriginalAnswer>
+  <__status>0</__status>
+  <__originalStatus>0</__originalStatus>
+  <__setOriginalStatus>false</__setOriginalStatus>
+  <__statusByUserId>316175</__statusByUserId>
+  <__statusByUserName>Portal Admin</__statusByUserName>
+  <__statusDate class="sql-timestamp">2015-03-24 22:16:57.0</__statusDate>
+  <__columnBitmask>0</__columnBitmask>
+</MBMessage>

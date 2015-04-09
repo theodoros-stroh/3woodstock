@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<root>
+	<header available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN" build-number="6101" export-date="Wed, 25 Mar 2015 08:11:54 +0000" group-id="316160" private-layout="false" type="layout-set" theme-id="zoetech_WAR_zoetechtheme" color-scheme-id="01" logo-path="/groups/316160/logo/">
+		<settings><![CDATA[lfr-theme:regular:footer-section-1-article-id=355174
+lfr-theme:regular:footer-section-4-article-id=355193
+lfr-theme:regular:footer-section-3-article-id=355188
+lfr-theme:regular:footer-section-2-article-id=355183
+lfr-theme:regular:display-company-logo=true
+]]></settings>
+		<css><![CDATA[]]></css>
+	</header>
+	<layouts>
+		<layout layout-uuid="3f68a117-f10e-4239-8d9e-b4b21f59ebe8" layout-id="1" path="/groups/316160/layouts/1/layout.xml"/>
+		<layout layout-uuid="d8335e0a-4a44-4420-9303-d2e30c99fd13" layout-id="2" path="/groups/316160/layouts/2/layout.xml"/>
+		<layout layout-uuid="f7742991-16d6-4742-8943-4088293049ae" layout-id="6" path="/groups/316160/layouts/6/layout.xml"/>
+		<layout layout-uuid="398a0efa-6f60-4d6c-b2fe-5b4906c0ff6b" layout-id="3" path="/groups/316160/layouts/3/layout.xml"/>
+		<layout layout-uuid="38b9f7f4-5d86-4ded-8b41-f015bbb61bb3" layout-id="4" path="/groups/316160/layouts/4/layout.xml"/>
+		<layout layout-uuid="80ef1fa6-6c4b-4c23-b38a-90d0db5e1d93" layout-id="5" path="/groups/316160/layouts/5/layout.xml"/>
+	</layouts>
+	<portlets>
+		<portlet portlet-id="19" layout-id="1" path="/groups/316160/portlets/19/316163/portlet.xml"/>
+		<locale available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN"/>
+		<portlet portlet-id="1_WAR_knowledgebaseportlet" layout-id="1" path="/groups/316160/portlets/1_WAR_knowledgebaseportlet/316163/portlet.xml"/>
+		<locale available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN"/>
+		<portlet portlet-id="1_WAR_ddlformportlet" layout-id="1" path="/groups/316160/portlets/1_WAR_ddlformportlet/316163/portlet.xml"/>
+		<locale available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN"/>
+		<portlet portlet-id="178" layout-id="1" path="/groups/316160/portlets/178/316163/portlet.xml"/>
+		<locale available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN"/>
+		<portlet portlet-id="8" layout-id="1" path="/groups/316160/portlets/8/316163/portlet.xml"/>
+		<locale available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN"/>
+		<portlet portlet-id="161" layout-id="1" path="/groups/316160/portlets/161/316163/portlet.xml"/>
+		<locale available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN"/>
+		<portlet portlet-id="162" layout-id="1" path="/groups/316160/portlets/162/316163/portlet.xml"/>
+		<locale available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN"/>
+		<portlet portlet-id="167" layout-id="1" path="/groups/316160/portlets/167/316163/portlet.xml"/>
+		<locale available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN"/>
+		<portlet portlet-id="56" layout-id="1" path="/groups/316160/portlets/56/316163/portlet.xml"/>
+		<locale available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN"/>
+		<portlet portlet-id="20" layout-id="1" path="/groups/316160/portlets/20/316163/portlet.xml"/>
+		<locale available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN"/>
+		<portlet portlet-id="28" layout-id="1" path="/groups/316160/portlets/28/316163/portlet.xml"/>
+		<locale available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN"/>
+		<portlet portlet-id="15" layout-id="1" path="/groups/316160/portlets/15/316163/portlet.xml"/>
+		<locale available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN"/>
+		<portlet portlet-id="169" layout-id="1" path="/groups/316160/portlets/169/316163/portlet.xml"/>
+		<locale available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN"/>
+		<portlet portlet-id="25" layout-id="1" path="/groups/316160/portlets/25/316163/portlet.xml"/>
+		<locale available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN"/>
+		<portlet portlet-id="166" layout-id="1" path="/groups/316160/portlets/166/316163/portlet.xml"/>
+		<locale available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN"/>
+		<portlet portlet-id="33" layout-id="1" path="/groups/316160/portlets/33/316163/portlet.xml"/>
+		<locale available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN"/>
+		<portlet portlet-id="responsivecarousel_WAR_responsivecarouselportlet_INSTANCE_xubjaIk9sSo3" layout-id="1" path="/groups/316160/portlets/responsivecarousel_WAR_responsivecarouselportlet_INSTANCE_xubjaIk9sSo3/316163/portlet.xml"/>
+		<locale available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN"/>
+		<portlet portlet-id="56_INSTANCE_oCR7GgPMGZbZ" layout-id="1" path="/groups/316160/portlets/56_INSTANCE_oCR7GgPMGZbZ/316163/portlet.xml"/>
+		<locale available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN"/>
+		<portlet portlet-id="56_INSTANCE_J77ll5Rd36yo" layout-id="1" path="/groups/316160/portlets/56_INSTANCE_J77ll5Rd36yo/316163/portlet.xml"/>
+		<locale available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN"/>
+		<portlet portlet-id="56_INSTANCE_Rui04ysn4xWh" layout-id="1" path="/groups/316160/portlets/56_INSTANCE_Rui04ysn4xWh/316163/portlet.xml"/>
+		<locale available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN"/>
+		<portlet portlet-id="56_INSTANCE_7fMF3QUbcolQ" layout-id="1" path="/groups/316160/portlets/56_INSTANCE_7fMF3QUbcolQ/316163/portlet.xml"/>
+		<locale available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN"/>
+		<portlet portlet-id="56_INSTANCE_paXkrNJn0ZUD" layout-id="1" path="/groups/316160/portlets/56_INSTANCE_paXkrNJn0ZUD/316163/portlet.xml"/>
+		<locale available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN"/>
+		<portlet portlet-id="56_INSTANCE_3AlSHLeg1z5O" layout-id="1" path="/groups/316160/portlets/56_INSTANCE_3AlSHLeg1z5O/316163/portlet.xml"/>
+		<locale available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN"/>
+		<portlet portlet-id="56_INSTANCE_EXUhO9tTmOO4" layout-id="1" path="/groups/316160/portlets/56_INSTANCE_EXUhO9tTmOO4/316163/portlet.xml"/>
+		<locale available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN"/>
+		<portlet portlet-id="48_INSTANCE_vk52dbeGYGf5" layout-id="5" path="/groups/316160/portlets/48_INSTANCE_vk52dbeGYGf5/353051/portlet.xml"/>
+		<locale available-locales="ar_SA,eu_ES,bg_BG,ca_AD,ca_ES,zh_CN,zh_TW,hr_HR,cs_CZ,da_DK,nl_NL,nl_BE,en_US,en_GB,et_EE,fi_FI,fr_FR,gl_ES,de_DE,el_GR,iw_IL,hi_IN,hu_HU,in_ID,it_IT,ja_JP,ko_KR,lo_LA,nb_NO,fa_IR,pl_PL,pt_BR,pt_PT,ro_RO,ru_RU,sr_RS,sr_RS_latin,sl_SI,sk_SK,es_ES,sv_SE,tr_TR,uk_UA,vi_VN"/>
+	</portlets>
+</root>
