@@ -17,5 +17,11 @@
 			<setting configurable="false" key="show-site-name-default"  type="checkbox" value="false" />
 			<setting key="portlet-setup-show-borders-default" value="true"></setting>
 		</settings>
+		<color-scheme name="default" id="01">
+			<css-class>default-page</css-class>
+		</color-scheme>
+		<color-scheme name="first-page" id="02">
+			<css-class>first-page</css-class>
+		</color-scheme>
 	</theme>
 </look-and-feel>

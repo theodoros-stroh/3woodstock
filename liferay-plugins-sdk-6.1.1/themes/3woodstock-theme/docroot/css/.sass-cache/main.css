@@ -2586,8 +2586,18 @@ h2 {
   overflow: auto; }
 
 /* Mine */
+body {
+  background: url("../images/custom/background.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+  border-top: 0 solid #142933; }
+
+.default-page #sliderFrame {
+  display: none; }
+
+.first-page #banner {
+  display: none; }
+
 #upper-part-header {
-  background: none repeat scroll 0 0 #f7f7f7;
+  background: url(../images/top-header-background.png) repeat scroll 0 0 #f7f7f7;
   height: 70px;
   width: 100%; }
 
@@ -2598,6 +2608,12 @@ h2 {
   padding: 0;
   width: 100%; }
 
+#lang {
+  position: absolute;
+  right: 10px;
+  top: 85px;
+  z-index: 999; }
+
 #navigation {
   background: none repeat-x scroll 0 10px rgba(0, 0, 0, 0);
   clear: both;
@@ -2607,8 +2623,8 @@ h2 {
 #navigation ul {
   display: inline-block;
   list-style: outside none none;
-  margin: 0px 0;
-  padding: 11px 0 23px 5px; }
+  margin: 0;
+  padding: 0 0 23px 100px; }
 
 #navigation li {
   float: left;
@@ -2627,5 +2643,6 @@ h2 {
 #wrapper {
   margin-left: 12%;
   padding-top: 10px;
-  width: 76%; }
+  width: 76%;
+  min-width: 1024px; }
 
