@@ -17,8 +17,8 @@
   width: 680px;
   height: 306px;
   /* Must be the same size as the slider images */
-  height: 400px;
-  width: 920px; }
+  height: 420px;
+  width: 958px; }
 
 #slider {
   float: left;
@@ -44,7 +44,7 @@
 /* Caption styles */
 #slider div.mc-caption-bg, #slider div.mc-caption-bg2 {
   position: absolute;
-  width: 400px;
+  width: 700px;
   height: auto;
   padding: 10px 0;
   /* 10px will increase height.*/
@@ -120,7 +120,7 @@
 #thumbs .thumb {
   border: 1px solid #CCC;
   border-top: 1px solid #FFF;
-  padding: 11px 8px;
+  padding: 3px 8px;
   background: #EEE; }
 
 #thumbs .thumb-on {

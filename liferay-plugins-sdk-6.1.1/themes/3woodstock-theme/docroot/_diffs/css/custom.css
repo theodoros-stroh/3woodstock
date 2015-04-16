@@ -670,7 +670,7 @@ body {
 
 #lower-part-header {
     background: none repeat scroll 0 0 white;
-    height: 40px;
+    height: 30px;
     margin: 0;
     padding: 0;
     width: 100%;
@@ -679,8 +679,8 @@ body {
 
 #lang {
     position: absolute;
-    right: 10px;
-    top: 85px;
+    right: 250px;
+    top: 0px;
     z-index: 999;
 }
 
@@ -688,7 +688,9 @@ body {
     background: none repeat-x scroll 0 10px rgba(0, 0, 0, 0);
     clear: both;
     display: block;
-    height: 40px;
+    height: 30px;
+    padding:5px;
+    padding-left: 150px;
 }
 
 #navigation ul {
@@ -718,7 +720,18 @@ body {
 
 #wrapper {
     margin-left: 12%;
-    padding-top: 10px;
+    padding-top: 0px;
     width: 76%;
     min-width: 1024px;
+}
+
+/* Mine. */
+
+#heading .site-title {
+    left: 1em;
+    margin-top: 0;
+    padding-top: 1em;
+    position: absolute;
+    top: 0;
+    z-index: 999;
 }

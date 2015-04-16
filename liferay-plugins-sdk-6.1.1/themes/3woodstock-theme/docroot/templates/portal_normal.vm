@@ -7,7 +7,6 @@
 <head>
 	<title>$the_title - $company_name</title>
 	$theme.include($top_head_include)
-	
 	<link href="$css_folder/js-image-slider.css" rel="stylesheet" type="text/css" />
     <script src="$javascript_folder/js-image-slider.js" type="text/javascript"></script>
 </head>
@@ -22,35 +21,11 @@
 		#dockbar()
 	#end
 
-
-
 	<div id="top-header">
+		<!--
 		<div id="upper-part-header">
-			<div id="heading">
-				<h1 class="site-title">
-					<a class="$logo_css_class" href="$site_default_url" title="#language ("go-to") $site_name">
-						<img alt="$logo_description" height="$site_logo_height" src="$site_logo" width="$site_logo_width" />
-					</a>
-	
-					#if ($show_site_name)
-						<span class="site-name" title="#language ("go-to") $site_name">
-							$site_name
-						</span>
-					#end
-	
-					<div id="pageSearch">
-						$theme.journalContentSearch()
-					</div>
-				</h1>
-				
-				<h2 class="page-title">
-					<span>$the_title</span>
-				</h2>
-			</div>	
-			#if (!$is_signed_in)
-				<a href="$sign_in_url" id="sign-in" rel="nofollow">$sign_in_text</a>
-			#end
 		</div>
+		-->
 		<div id="lower-part-header">
 			#if ($has_navigation || $is_signed_in)
 				#parse ("$full_templates_path/navigation.vm")
@@ -58,14 +33,38 @@
 			<span id="lang">
 				$theme.language()
 			</span>
+			<h2 class="page-title">
+				<span>$the_title</span>
+			</h2>
+			#if (!$is_signed_in)
+				<a href="$sign_in_url" id="sign-in" rel="nofollow">$sign_in_text</a>
+			#end	
 		</div>
 	</div>
 
-
-	
-	  
 	<div id="wrapper">
-	
+		<div id="heading">
+			<h1 class="site-title">
+				<a class="$logo_css_class" href="$site_default_url" title="#language ("go-to") $site_name">
+					<img alt="$logo_description" height="$site_logo_height" src="$site_logo" width="$site_logo_width" />
+				</a>
+
+				#if ($show_site_name)
+					<span class="site-name" title="#language ("go-to") $site_name">
+						$site_name
+					</span>
+				#end
+
+				<!--
+				<div id="pageSearch">
+					$theme.journalContentSearch()
+				</div>
+				-->
+			</h1>			
+		</div>	
+		
+
+		
 		<!--
 			<div id="sliderFrame">
 			    <div id="slider">
@@ -85,93 +84,80 @@
 	            <a href="http://www.menucool.com/jquery-slider" target="_blank">
 	                <img src="$images_folder/jsImgSlider/image-slider-1.jpg" alt="Έπιπλα κουζίνας" />
 	            </a>
-	            
 	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-2.jpg" title="Έπιπλα μπάνιου">Έπιπλα μπάνιου</a>
-	           
 	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-3.jpg" title="Ντουλάπες (Ανοιγόμενες - Συρόμενες)">Ντουλάπες (Ανοιγόμενες - Συρόμενες)</a>
-	            
 	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-4.jpg" title="Εσωτερικές πόρτες - Laminate">Εσωτερικές πόρτες - Laminate</a>
-	            
-	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-4.jpg" title="Πατωματα-Laminate - Deck">Πατωματα-Laminate - Deck</a>
-	            
-	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-4.jpg" title="Ξυλεία Εξωτερικών χώρων - Deck">Ξυλεία Εξωτερικών χώρων - Deck</a>
-	            
-	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-4.jpg" title="Ξύλινα Προφίλ">Ξύλινα Προφίλ</a>
-	            
-	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-4.jpg" title="Υλικά Επιπλοποιίας - Εργαλεία</a>
-	            
-	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-4.jpg" title="Ειδικές κατασκευές</a>
+	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-5.jpg" title="Πατωματα-Laminate - Deck">Πατωματα-Laminate - Deck</a>
+	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-6.jpg" title="Ξυλεία Εξωτερικών χώρων - Deck">Ξυλεία Εξωτερικών χώρων - Deck</a>
+	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-6.jpg" title="Ξύλινα Προφίλ">Ξύλινα Προφίλ</a>
+	            <!--
+	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-6.jpg" title="Υλικά Επιπλοποιίας - Εργαλεία</a>
+	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-6.jpg" title="Ειδικές κατασκευές</a>
+	            -->
 	        </div>
-	        
 	        
 	        <div id="thumbs">
 	            <div class="thumb">
-	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb1.jpg" /></div>
+	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-1.jpg" /></div>
 	                <div class="thumb-content"><p>Έπιπλα κουζίνας</p>Thumbnails allows any HTML content</div>
 	                <div style="clear:both;"></div>
 	            </div>
 	            <div class="thumb">
-	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb2.jpg" /></div>
+	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-2.jpg" /></div>
 	                <div class="thumb-content"><p>Έπιπλα μπάνιου</p>Thumbnail style is customizable</div>
 	                <div style="clear:both;"></div>
 	            </div>
 	            <div class="thumb">
-	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb3.jpg" /></div>
+	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-3.jpg" /></div>
 	                <div class="thumb-content"><p>Ντουλάπες</p>Ανοιγόμενες - Συρόμενες.</div>
 	                <div style="clear:both;"></div>
 	            </div>
 	            <div class="thumb">
-	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb4.jpg" /></div>
+	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-4.jpg" /></div>
 	                <div class="thumb-content"><p>Εσωτερικές πόρτες</p>Laminate</div>
 	                <div style="clear:both;"></div>
 	            </div>
 	            <div class="thumb">
-	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb4.jpg" /></div>
+	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-5.jpg" /></div>
 	                <div class="thumb-content"><p>Πατωματα-Laminate</p>Deck</div>
 	                <div style="clear:both;"></div>
 	            </div>
-	            
 	           	<div class="thumb">
-	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb4.jpg" /></div>
+	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-6.jpg" /></div>
 	                <div class="thumb-content"><p>Ξυλεία Εξωτερικών χώρων</p>Deck</div>
 	                <div style="clear:both;"></div>
 	            </div>
-	            
 	            <div class="thumb">
-	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb4.jpg" /></div>
-	                <div class="thumb-content"><p>Ξύλινα Προφίλ</p></div>
+	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-6.jpg" /></div>
+	                <div class="thumb-content"><p>Ξύλινα Προφίλ</p>test</div>
 	                <div style="clear:both;"></div>
 	            </div>
-	            
+	            <!--
 	            <div class="thumb">
-	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb4.jpg" /></div>
+	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-5.jpg" /></div>
 	                <div class="thumb-content"><p>Υλικά Επιπλοποιίας</p>Εργαλεία</div>
 	                <div style="clear:both;"></div>
 	            </div>      
-	            
 	            <div class="thumb">
-	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb4.jpg" /></div>
-	                <div class="thumb-content"><p>Εικικές κατασκευές</p></div>
+	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-5.jpg" /></div>
+	                <div class="thumb-content"><p>Εικικές κατασκευές</p>test</div>
 	                <div style="clear:both;"></div>
 	            </div>         
+	            -->
 	        </div>
 	        
 	        <!--clear above float:left elements. It is required if above #slider is styled as float:left. -->
 	        <div style="clear:both;height:0;"></div>
 	    </div>
 	    
-	   
-	    
 		<header id="banner" role="banner">
 		</header>
-	
 	
 		<div id="content">
 			<nav class="site-breadcrumbs" id="breadcrumbs">
 				<h1>
 					<span>#language ("breadcrumbs")</span>
 				</h1>
-	
 				#breadcrumbs()
 			</nav>
 	

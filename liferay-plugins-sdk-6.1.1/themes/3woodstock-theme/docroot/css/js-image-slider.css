@@ -18,8 +18,8 @@
 #slider, #slider div.sliderInner {
     width:680px;height:306px;/* Must be the same size as the slider images */
     
-    height: 400px;
-    width: 920px;
+    height: 420px;
+    width: 958px;
 }
 
 #slider {
@@ -43,7 +43,7 @@
 /* Caption styles */
 #slider div.mc-caption-bg, #slider div.mc-caption-bg2 {
 	position:absolute;
-	width:400px;
+	width:700px;
 	height:auto;
 	padding:10px 0;/* 10px will increase height.*/
 	left:120px; /*if the caption needs to be aligned from right, specify by right instead of left. i.e. right:20px;*/
@@ -120,7 +120,7 @@
 {
     border:1px solid #CCC;
     border-top:1px solid #FFF;
-    padding:11px 8px;
+    padding:3px 8px;
     background:#EEE;
 }
 #thumbs .thumb-on 
