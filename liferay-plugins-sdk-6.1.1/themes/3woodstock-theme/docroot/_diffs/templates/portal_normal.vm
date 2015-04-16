@@ -82,7 +82,7 @@
 	     <div id="sliderFrame">
 	        <div id="slider">
 	            <a href="http://www.menucool.com/jquery-slider" target="_blank">
-	                <img src="$images_folder/jsImgSlider/image-slider-1.jpg" alt="Έπιπλα κουζίνας" />
+	                <img src="$images_folder/jsImgSlider/image-slider-1.jpg" alt="Έπιπλα κουζίνας" width="100%" height="100%" />
 	            </a>
 	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-2.jpg" title="Έπιπλα μπάνιου">Έπιπλα μπάνιου</a>
 	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-3.jpg" title="Ντουλάπες (Ανοιγόμενες - Συρόμενες)">Ντουλάπες (Ανοιγόμενες - Συρόμενες)</a>
