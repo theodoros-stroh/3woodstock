@@ -89,10 +89,10 @@
 	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-4.jpg" title="Εσωτερικές πόρτες - Laminate">Εσωτερικές πόρτες - Laminate</a>
 	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-5.jpg" title="Πατωματα-Laminate - Deck">Πατωματα-Laminate - Deck</a>
 	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-6.jpg" title="Ξυλεία Εξωτερικών χώρων - Deck">Ξυλεία Εξωτερικών χώρων - Deck</a>
-	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-6.jpg" title="Ξύλινα Προφίλ">Ξύλινα Προφίλ</a>
+	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-7.jpg" title="Ξύλινα Προφίλ">Ξύλινα Προφίλ</a>
 	            <!--
-	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-6.jpg" title="Υλικά Επιπλοποιίας - Εργαλεία</a>
-	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-6.jpg" title="Ειδικές κατασκευές</a>
+	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-8.jpg" title="Υλικά Επιπλοποιίας - Εργαλεία</a>
+	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-9.jpg" title="Ειδικές κατασκευές</a>
 	            -->
 	        </div>
 	        
@@ -128,7 +128,7 @@
 	                <div style="clear:both;"></div>
 	            </div>
 	            <div class="thumb">
-	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-6.jpg" /></div>
+	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-7.jpg" /></div>
 	                <div class="thumb-content"><p>Ξύλινα Προφίλ</p>test</div>
 	                <div style="clear:both;"></div>
 	            </div>

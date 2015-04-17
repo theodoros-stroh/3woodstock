@@ -18,7 +18,7 @@
   height: 306px;
   /* Must be the same size as the slider images */
   height: 420px;
-  width: 958px; }
+  width: 968px; }
 
 #slider {
   float: left;
@@ -111,7 +111,7 @@
 /* -- thumbnails -- */
 #thumbs {
   float: left;
-  margin-left: 10px;
+  margin-left: 0px;
   width: 230px;
   font: normal 11px/13px Arial;
   border-top: 1px solid #CCC;
