@@ -2071,7 +2071,8 @@ body > .lfr-menu-list, body > .lfr-menu-list ul, .lfr-actions, .aui-dialog-conte
   position: absolute; }
 
 body {
-  background: url(../images/custom/background.png) 0 0;
+  /* 	background: url(../images/custom/background.png) 0 0; */
+  background: url(../images/background/321099676_3800ffc872_b.jpg) 0 0;
   border-top: 10px solid #142933;
   font: 12px "Helvetica Neue", Helvetica, Arial, sans-serif; }
   body.html-editor {
@@ -2082,11 +2083,13 @@ body {
     body.portal-popup #content #main-content {
       margin-top: 0; }
   body.show-footer {
-    background: #142933; }
+    /* 		background: #142933; */
+    background: url(../images/background/321099676_3800ffc872_b.jpg) 0 0; }
     body.show-footer.aui-dialog-iframe-popup {
       background: #FFF; }
     body.show-footer #wrapper {
-      background: url(../images/custom/background.png) 0 0; }
+      /* 			background: url(../images/custom/background.png) 0 0; */
+      background: white; }
 
 #wrapper {
   position: relative; }
@@ -2587,7 +2590,7 @@ h2 {
 
 /* Mine */
 body {
-  background: url("../images/custom/background.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+  background: url(../images/background/321099676_3800ffc872_b.jpg) 0 0;
   border-top: 0 solid #142933; }
 
 .default-page #sliderFrame {
