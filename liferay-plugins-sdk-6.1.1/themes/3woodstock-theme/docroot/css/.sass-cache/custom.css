@@ -29,8 +29,8 @@ body {
   position: relative; }
 
 #banner, #content {
-  margin: 0 auto;
-  width: 960px; }
+  margin: 5%;
+  width: 90; }
 
 #banner {
   position: relative; }

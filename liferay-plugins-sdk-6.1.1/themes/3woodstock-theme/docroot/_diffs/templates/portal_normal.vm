@@ -88,25 +88,21 @@
 	            </a>
 	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-2.jpg" title="Έπιπλα μπάνιου">Έπιπλα μπάνιου</a>
 	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-3.jpg" title="Ντουλάπες (Ανοιγόμενες - Συρόμενες)">Ντουλάπες (Ανοιγόμενες - Συρόμενες)</a>
-	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-4.jpg" title="Εσωτερικές πόρτες - Laminate">Εσωτερικές πόρτες - Laminate</a>
-	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-5.jpg" title="Πατωματα-Laminate - Deck">Πατωματα-Laminate - Deck</a>
+	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-4.jpg" title="Πόρτες - Πατώματα (Laminate)">Πόρτες - Πατώματα (Laminate)</a>
 	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-6.jpg" title="Ξυλεία Εξωτερικών χώρων - Deck">Ξυλεία Εξωτερικών χώρων - Deck</a>
-	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-7.jpg" title="Ξύλινα Προφίλ">Ξύλινα Προφίλ</a>
-	            <!--
-	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-8.jpg" title="Υλικά Επιπλοποιίας - Εργαλεία</a>
-	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-9.jpg" title="Ειδικές κατασκευές</a>
-	            -->
+	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-6.jpg" title="Υλικά Επιπλοποιίας - Εργαλεία">Υλικά Επιπλοποιίας - Εργαλεία</a>
+	            <a class="lazyImage" href="$images_folder/jsImgSlider/image-slider-7.jpg" title="Ειδικές Κατασκευές - Επεξεργασία">Ειδικές Κατασκευές - Επεξεργασία</a>
 	        </div>
 	        
 	        <div id="thumbs">
 	            <div class="thumb">
 	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-1.jpg" /></div>
-	                <div class="thumb-content"><p>Έπιπλα κουζίνας</p>Thumbnails allows any HTML content</div>
+	                <div class="thumb-content"><p>Έπιπλα κουζίνας</p></div>
 	                <div style="clear:both;"></div>
 	            </div>
 	            <div class="thumb">
 	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-2.jpg" /></div>
-	                <div class="thumb-content"><p>Έπιπλα μπάνιου</p>Thumbnail style is customizable</div>
+	                <div class="thumb-content"><p>Έπιπλα μπάνιου</p></div>
 	                <div style="clear:both;"></div>
 	            </div>
 	            <div class="thumb">
@@ -116,14 +112,10 @@
 	            </div>
 	            <div class="thumb">
 	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-4.jpg" /></div>
-	                <div class="thumb-content"><p>Εσωτερικές πόρτες</p>Laminate</div>
+	                <div class="thumb-content"><p>Πόρτες - Πατώματα</p>Laminate</div>
 	                <div style="clear:both;"></div>
 	            </div>
-	            <div class="thumb">
-	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-5.jpg" /></div>
-	                <div class="thumb-content"><p>Πατωματα-Laminate</p>Deck</div>
-	                <div style="clear:both;"></div>
-	            </div>
+
 	           	<div class="thumb">
 	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-6.jpg" /></div>
 	                <div class="thumb-content"><p>Ξυλεία Εξωτερικών χώρων</p>Deck</div>
@@ -131,21 +123,14 @@
 	            </div>
 	            <div class="thumb">
 	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-7.jpg" /></div>
-	                <div class="thumb-content"><p>Ξύλινα Προφίλ</p>test</div>
+	                <div class="thumb-content"><p>Υλικά Επιπλοποιίας<br/>Εργαλεία</p></div>
 	                <div style="clear:both;"></div>
 	            </div>
-	            <!--
 	            <div class="thumb">
 	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-5.jpg" /></div>
-	                <div class="thumb-content"><p>Υλικά Επιπλοποιίας</p>Εργαλεία</div>
+	                <div class="thumb-content"><p>Ειδικές Κατασκευές<br/>Επεξεργασία</p></div>
 	                <div style="clear:both;"></div>
-	            </div>      
-	            <div class="thumb">
-	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-5.jpg" /></div>
-	                <div class="thumb-content"><p>Εικικές κατασκευές</p>test</div>
-	                <div style="clear:both;"></div>
-	            </div>         
-	            -->
+	            </div>
 	        </div>
 	        
 	        <!--clear above float:left elements. It is required if above #slider is styled as float:left. -->
