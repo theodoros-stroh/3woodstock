@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!DOCTYPE look-and-feel PUBLIC "-//Liferay//DTD Look and Feel 6.1.0//EN" "http://www.liferay.com/dtd/liferay-look-and-feel_6_1_0.dtd">
+
+<look-and-feel>
+	<compatibility>
+		<version>6.1.0+</version>
+	</compatibility>
+	<!--
+	<company-limit>
+	        <company-includes>
+	                <company-id name="316135" />
+	        </company-includes>
+	</company-limit>
+	-->
+	<theme id="3woodstockgr-theme" name="3woodstock.gr">
+		<settings>
+			<setting configurable="true" key="display-company-logo" type="checkbox" value="false" />
+			<setting configurable="true" key="display-footer" type="checkbox" value="true" />
+			<setting configurable="true" key="footer-nav-title" type="text" value="Site Pages" />
+			<setting configurable="true" key="footer-section-1-article-id" type="text" />
+			<setting configurable="true" key="footer-section-2-article-id" type="text" />
+			<setting configurable="true" key="footer-section-3-article-id" type="text" />
+			<setting configurable="true" key="footer-section-4-article-id" type="text" />
+			<setting configurable="true" key="kitchen-furniture-page-url" type="text" />
+			<setting configurable="true" key="bathroom-furniture-page-url" type="text" />
+			<setting configurable="true" key="wardrobes-page-url" type="text" />
+			<setting configurable="true" key="laminate-flooring-page-url" type="text" />
+			<setting configurable="true" key="laminate-doors-page-url" type="text" />
+			<setting configurable="true" key="external-space-deck-flooring-page-url" type="text" />
+			<setting configurable="true" key="cabinet-making-materials-page-url" type="text" />
+			<setting configurable="true" key="tools-page-url" type="text" />
+			<setting configurable="true" key="special-constructions-page-url" type="text" />
+			<setting configurable="false" key="show-site-name-default"  type="checkbox" value="false" />
+			<setting key="portlet-setup-show-borders-default" value="true"></setting>
+		</settings>
+		<color-scheme name="default" id="01">
+			<css-class>default-page</css-class>
+		</color-scheme>
+		<color-scheme name="first-page" id="02">
+			<css-class>first-page</css-class>
+		</color-scheme>
+	</theme>
+</look-and-feel>

@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+
+#parse ($init)
+
+<html class="#language ("lang.dir")" dir="#language ("lang.dir")" lang="$w3c_language_id">
+
+<head>
+	<title>$the_title - $company_name</title>
+	$theme.include($top_head_include)
+	<link href="$css_folder/js-image-slider.css" rel="stylesheet" type="text/css" />
+    <script src="$javascript_folder/js-image-slider.js" type="text/javascript"></script>
+</head>
+
+<body class="$css_class">
+
+	<a href="#main-content" id="skip-to-content">#language ("skip-to-content")</a>
+	
+	$theme.include($body_top_include)
+	
+	#if ($is_signed_in)
+		#dockbar()
+	#end
+
+	<div id="top-header">
+		<!--
+		<div id="upper-part-header">
+		</div>
+		-->
+		<div id="lower-part-header">
+			#if ($has_navigation || $is_signed_in)
+				#parse ("$full_templates_path/navigation.vm")
+			#end
+			<span id="lang">
+				$theme.language()
+			</span>
+			<!--
+			<h2 class="page-title">
+				<span>$the_title</span>
+			</h2>
+			-->
+			#if (!$is_signed_in)
+				<a href="$sign_in_url" id="sign-in" rel="nofollow">$sign_in_text</a>
+			#end	
+		</div>
+	</div>
+
+	<div id="wrapper">
+		<div id="heading">
+			<h1 class="site-title">
+				<a class="$logo_css_class" href="$site_default_url" title="#language ("go-to") $site_name">
+					<img alt="$logo_description" height="$site_logo_height" src="$site_logo" width="$site_logo_width" />
+				</a>
+
+				#if ($show_site_name)
+					<span class="site-name" title="#language ("go-to") $site_name">
+						$site_name
+					</span>
+				#end
+
+				<!--
+				<div id="pageSearch">
+					$theme.journalContentSearch()
+				</div>
+				-->
+			</h1>			
+		</div>	
+
+	  
+	     <div id="sliderFrame">
+	        <div id="slider">
+				
+	            <a href="$kitchen-furniture-page-url">
+	            	#if ($themeDisplay.getLocale() == 'en_US')
+	                	<img src="$images_folder/jsImgSlider/image-slider-1.jpg" alt="Kitchen Furniture" />
+	           		#else
+	           			<img src="$images_folder/jsImgSlider/image-slider-1.jpg" alt="Έπιπλα Κουζίνας" />
+	            	#end
+	            </a>
+	            
+	            <a href="$bathroom-furniture-page-url">
+		            #if ($themeDisplay.getLocale() == 'en_US')	            
+		            	<img src="$images_folder/jsImgSlider/image-slider-2.jpg" alt="Bathroom Furniture" />
+		            #else
+		            	<img src="$images_folder/jsImgSlider/image-slider-2.jpg" alt="Έπιπλα μπάνιου" />
+		            #end
+	            </a>
+	            
+	            <a href="$wardrobes-page-url">
+		            #if ($themeDisplay.getLocale() == 'en_US')	 
+		           		<img src="$images_folder/jsImgSlider/image-slider-3.jpg" alt="Wardrobes (With hinged or sliding doors)" />
+		          	#else
+		            	<img src="$images_folder/jsImgSlider/image-slider-3.jpg" alt="Ντουλάπες (Ανοιγόμενες - Συρόμενες)" />
+		            #end
+	            </a>
+	            
+	            <a href="$laminate-flooring-page-url">
+		            #if ($themeDisplay.getLocale() == 'en_US')	 
+		           		<img src="$images_folder/jsImgSlider/image-slider-4b.jpg" alt="Laminate doors and flooring" />
+		          	#else
+		            	<img src="$images_folder/jsImgSlider/image-slider-4b.jpg" alt="Πόρτες - Πατώματα (Laminate)" />
+		            #end
+	            </a>
+	            
+	            <a href="$external-space-deck-flooring-page-url">          
+		            #if ($themeDisplay.getLocale() == 'en_US')	 
+		           		<img src="$images_folder/jsImgSlider/image-slider-6.jpg" alt="External space deck flooring" />
+		          	#else
+		            	<img src="$images_folder/jsImgSlider/image-slider-6.jpg" alt="Ξυλεία Εξωτερικών χώρων - Deck">
+		            #end	
+	            </a>
+	            
+	            <a href="$cabinet-making-materials-page-url">                 
+		            #if ($themeDisplay.getLocale() == 'en_US')	 
+		           		<img src="$images_folder/jsImgSlider/image-slider-7.jpg" alt="Cabinet making materials and tools" />
+		          	#else
+		            	<img src="$images_folder/jsImgSlider/image-slider-7.jpg" alt="Υλικά Επιπλοποιίας - Εργαλεία" />
+		            #end		
+	            </a>
+	            
+	            <a href="$special-constructions-page-url">   
+		            #if ($themeDisplay.getLocale() == 'en_US')	 
+		           		<img src="$images_folder/jsImgSlider/image-slider-8.jpg" alt="Special Constructions and Finishing" />
+		          	#else
+		            	<img src="$images_folder/jsImgSlider/image-slider-8.jpg" alt="Ειδικές Κατασκευές - Επεξεργασία" />
+		            #end
+	            </a>		            
+	            
+	        </div>
+	        
+	        <div id="thumbs">
+	            <div class="thumb">
+	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-1.jpg" /></div>
+	                <div class="thumb-content"><p>
+
+				          	#if ($themeDisplay.getLocale() == 'en_US')
+				          		Kitchen Furniture
+				          	#else
+				            	Έπιπλα κουζίνας
+				            #end
+				
+	            	</p></div>
+	                <div style="clear:both;"></div>
+	            </div>
+	            
+	            <div class="thumb">
+	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-2.jpg" /></div>
+	                <div class="thumb-content"><p>
+				          	#if ($themeDisplay.getLocale() == 'en_US')
+				          		Bathroom Furniture
+				          	#else
+				            	Έπιπλα μπάνιου
+				            #end		                
+	                </p></div>
+	                <div style="clear:both;"></div>
+	            </div>
+	            
+	            
+	            <div class="thumb">
+	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-3.jpg" /></div>
+	                <div class="thumb-content"><p>
+				          	#if ($themeDisplay.getLocale() == 'en_US')
+				          		Wardrobes</p>With hinged or sliding doors
+				          	#else
+				            	Ντουλάπες</p>Ανοιγόμενες - Συρόμενες.
+				            #end		                
+	                </div>
+	                <div style="clear:both;"></div>
+	            </div>
+	            
+	            
+	            <div class="thumb">
+	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-4b.jpg" /></div>
+	                <div class="thumb-content"><p>
+				          	#if ($themeDisplay.getLocale() == 'en_US')
+				          		Laminate doors and flooring
+				          	#else
+				            	Πόρτες - Πατώματα</p>Laminate
+				            #end	                
+	                </div>
+	                <div style="clear:both;"></div>
+	            </div>
+
+	           	<div class="thumb">
+	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-6.jpg" /></div>
+	                <div class="thumb-content"><p>
+				          	#if ($themeDisplay.getLocale() == 'en_US')
+				          		External space deck flooring
+				          	#else
+				            	Ξυλεία Εξωτερικών χώρων
+				            #end		                
+	                </p>Deck</div>
+	                <div style="clear:both;"></div>
+	            </div>
+	            <div class="thumb">
+	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-7.jpg" /></div>
+	                <div class="thumb-content"><p>
+				          	#if ($themeDisplay.getLocale() == 'en_US')
+				          		Cabinet making materials and tools
+				          	#else
+				            	Υλικά Επιπλοποιίας<br/>Εργαλεία
+				            #end		                
+	                </p></div>
+	                <div style="clear:both;"></div>
+	            </div>
+	            <div class="thumb">
+	                <div class="frame"><img src="$images_folder/jsImgSlider/thumb-8.jpg" /></div>
+	                <div class="thumb-content"><p>
+				          	#if ($themeDisplay.getLocale() == 'en_US')
+				          		Special Constructions and Finishing
+				          	#else
+				            	Ειδικές Κατασκευές<br/>Επεξεργασία
+				            #end		                
+	                </p></div>
+	                <div style="clear:both;"></div>
+	            </div>
+	        </div>
+	        
+	        <!--clear above float:left elements. It is required if above #slider is styled as float:left. -->
+	        <div style="clear:both;height:0;"></div>
+	    </div>
+	    
+		<header id="banner" role="banner">
+		</header>
+	
+		<div id="content">
+			<nav class="site-breadcrumbs" id="breadcrumbs">
+				<h1>
+					<span>#language ("breadcrumbs")</span>
+				</h1>
+				#breadcrumbs()
+			</nav>
+			<!--
+			#language("home-page-carousel-kitchen-furniture")"
+			-->
+			#if ($selectable)
+				$theme.include($content_include)
+			#else
+				$portletDisplay.recycle()
+	
+				$portletDisplay.setTitle($the_title)
+	
+				$theme.wrapPortlet("portlet.vm", $content_include)
+			#end
+		</div>
+	</div>
+
+#if ($theme_settings.display-footer == true)
+	#parse ("$full_templates_path/footer.vm")
+#end
+
+$theme.include($body_bottom_include)
+
+$theme.include($bottom_include)
+
+</body>
+
+</html>
