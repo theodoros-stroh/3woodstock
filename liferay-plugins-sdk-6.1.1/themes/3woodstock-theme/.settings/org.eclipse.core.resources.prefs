@@ -1,2 +1,4 @@
 eclipse.preferences.version=1
+encoding//docroot/WEB-INF/src/content/Language.properties=UTF-8
+encoding//docroot/WEB-INF/src/content/Language_el.properties=UTF-8
 encoding//docroot/_diffs/templates/portal_normal.vm=UTF-8
