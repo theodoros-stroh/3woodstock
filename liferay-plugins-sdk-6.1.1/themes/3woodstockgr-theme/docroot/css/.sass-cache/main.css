@@ -2091,14 +2091,32 @@ body {
       /* 			background: url(../images/custom/background.png) 0 0; */
       background: white; }
 
-#wrapper {
-  position: relative;
-  min-width: 1200px; }
-
+@media screen and ( max-width: 1024px ) {
+  #wrapper {
+    position: relative;
+    margin-left: 66px;
+    padding-top: 0px;
+    width: 100%;
+    min-width: 968px; } }
+@media screen and ( min-width: 1025px ) and ( max-width: 1450px ) {
+  #wrapper {
+    position: relative;
+    margin-left: 5%;
+    padding-top: 0px;
+    width: 90%;
+    min-width: 1024px; } }
+@media screen and ( min-width: 1451px ) {
+  #wrapper {
+    position: relative;
+    margin-left: 12%;
+    padding-top: 0px;
+    width: 76%;
+    min-width: 1200px;
+    max-width: 1200px; } }
 #banner, #content {
   margin: 5%;
   width: 90;
-  min-width: 1200px; }
+  min-width: 1100px; }
 
 #banner {
   position: relative; }
@@ -2649,12 +2667,6 @@ body {
   right: 0;
   top: 15px; }
 
-#wrapper {
-  margin-left: 12%;
-  padding-top: 0px;
-  width: 76%;
-  min-width: 1200px; }
-
 /* Mine. */
 #heading .site-title {
   left: 1em;
@@ -2663,4 +2675,9 @@ body {
   position: absolute;
   top: 0;
   z-index: 999; }
+
+#smallBanner {
+  height: 200px;
+  width: 100%;
+  background: white url(../images/carousel-pages/carousel1.png) 100% 0 repeat; }
 

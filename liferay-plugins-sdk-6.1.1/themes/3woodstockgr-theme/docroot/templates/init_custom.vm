@@ -40,3 +40,7 @@
 #set ($laminate-flooring-page-url = $theme_display.getThemeSetting('laminate-flooring-page-url'))
 #set ($external-space-deck-flooring-page-url = $theme_display.getThemeSetting('external-space-deck-flooring-page-url'))
 #set ($cabinet-making-materials-page-url = $theme_display.getThemeSetting('cabinet-making-materials-page-url'))
+
+
+## ---------- set isHomePage  ---------- ##
+#set ($isHomePage = $layout.getPlid()==$theme_display.getScopeGroup().getDefaultPublicPlid())
