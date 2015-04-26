@@ -1,0 +1,11 @@
+Bookmarks
+
+3FMAPLAT
+3FMAPLON
+3FMAPWEIGHT
+
+
+38.051323
+23.765661000000023
+
+OpenLayers_Geometry_Point_114
