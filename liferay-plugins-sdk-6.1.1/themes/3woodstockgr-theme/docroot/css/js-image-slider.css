@@ -10,45 +10,55 @@
 {
     box-sizing: content-box;
     width:1200px;
+    width:100%;
     margin:0 auto; /*center-aligned*/
     padding:0px;
     box-shadow: 0 0 5px #BBB;border:1px solid #CCC; background-color:#FFF;
 }
 
-@media screen and ( max-width: 1025px ) {
-	#sliderFrame {
-		width:968px;
-	}
-	
-	#slider, #slider div.sliderInner {
-	    width:680px;height:306px;/* Must be the same size as the slider images */
-	    height: 420px;
-	    width: 968px;
-	}
+#slider, #slider div.sliderInner {
+    height: 420px;
+    width: 78%;
 }
 
-@media screen and ( min-width: 1025px ) and ( max-width: 1450px ) {
-	#sliderFrame {
-		width:1100px;
-	}	
+/* @media screen and ( max-width: 1025px ) { */
+/* 	#sliderFrame { */
+/* 		width:968px; */
+/* 	} */
 	
-	#slider, #slider div.sliderInner {
-	    width:680px;height:306px;/* Must be the same size as the slider images */
-	    height: 420px;
-	    width: 868px;
-	}
-}
+/* 	#slider, #slider div.sliderInner { */
+/* 	    width:680px;height:306px;Must be the same size as the slider images */
+/* 	    height: 420px; */
+/* 	    width: 968px; */
+/* 	} */
+/* } */
 
-@media screen and ( min-width: 1451px ) {
-	#sliderFrame {
-		width:1200px;
-	}	
-	#slider, #slider div.sliderInner {
-	    width:680px;height:306px;/* Must be the same size as the slider images */
-	    height: 420px;
-	    width: 968px;
-	}
-}
+/* @media screen and ( min-width: 1025px ) and ( max-width: 1450px ) { */
+/* 	#sliderFrame { */
+/* 		width:1100px; */
+/* 	}	 */
+	
+/* 	#slider, #slider div.sliderInner { */
+/* 	    width:680px;height:306px;Must be the same size as the slider images */
+/* 	    height: 420px; */
+/* 	    width: 868px; */
+/* 	} */
+/* } */
+
+/* @media screen and ( min-width: 1451px ) { */
+/* 	#sliderFrame { */
+/* 		width:1200px; */
+/* 	}	 */
+/* 	#slider, #slider div.sliderInner { */
+/* 	    width:680px;height:306px;Must be the same size as the slider images */
+/* 	    height: 420px; */
+/* 	    width: 968px; */
+/* 	} */
+/* } */
+
+
+
+
 
 #slider {
     float:left;
@@ -135,38 +145,30 @@
 
 
 /* -- thumbnails -- */
-@media screen and ( max-width: 1100px ) {
-	#thumbs {
-		display:none;
-	}
-}
+/* @media screen and ( max-width: 1100px ) { */
+/* 	#thumbs { */
+/* 		display:none; */
+/* 	} */
+/* } */
 
-@media screen and ( min-width: 1101px ) {
-	#thumbs {
-		display:block;
-	}
-}
+/* @media screen and ( min-width: 1101px ) { */
+/* 	#thumbs { */
+/* 		display:block; */
+/* 	} */
+/* } */
 
-
-#thumbs 
-{
-    float:left;
-    margin-left:0px;
-    width:230px;
-    font:normal 11px/13px Arial;
-    border-top:1px solid #CCC;
-    color:#666;
-}
 
 #thumbs 
 {
     float:left;
     margin-left:0px;
-    width:230px;
+    width:22%;
     font:normal 11px/13px Arial;
     border-top:1px solid #CCC;
-    color:#666;
+    color:#667;
 }
+
+
 #thumbs .thumb 
 {
     border:1px solid #CCC;
