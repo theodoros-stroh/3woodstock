@@ -5,13 +5,13 @@
 	<compatibility>
 		<version>6.1.0+</version>
 	</compatibility>
-	<!-- 
+	
 	<company-limit>
 	        <company-includes>
 	                <company-id name="316135" />
 	        </company-includes>
 	</company-limit>
-	-->
+
 	<theme id="3woodstockgr-theme" name="3woodstock.gr">
 		<settings>
 			<setting configurable="true" key="display-company-logo" type="checkbox" value="false" />
