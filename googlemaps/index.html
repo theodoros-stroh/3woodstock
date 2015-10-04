@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <style type="text/css">
+        html, body {
+            height:100%;
+            margin: 0;
+            padding: 0;
+        }
+        #map {
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div id="google-map" style="width:500px; height:400px">
+        &nbsp;</div>
+    <script type="text/javascript">
+        var mapCenter = {lat : 38.052411, lng : 23.766809};
+        var myLatLng = {lat : 38.051411, lng : 23.765809};
+
+        var map;
+        function initMap(){
+            map = new google.maps.Map(document.getElementById('google-map'), {
+                center : mapCenter,
+                zoom : 15
+            });
+
+            var marker = new google.maps.Marker({
+                position : myLatLng,
+                map : map,
+                title : '3WOODSTOCK'
+            });
+
+            var infoWindow = new google.maps.InfoWindow({
+                content : '3WOODSTOCK'
+            });
+
+            infoWindow.open(map, marker);
+        }
+    </script><script async defer src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDcBUEMFe9qoPX856aBG43tLm2MyuyFnXY&callback=initMap"></script>
+</body>
+</html>
